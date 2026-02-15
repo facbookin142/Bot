@@ -1,1 +1,1 @@
-worker: python your_my.py
+worker: python my.py
