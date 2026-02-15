@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # 1. Yahan apna Bot Token dalein (BotFather se mila hua)
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8546513391:AAGOYM1HlO_5_Zkze1pH1T9bffA8_O10KlM"
 
 # 2. Yahan wo numbers dalein jo aap logo ko dena chahte hain
 NUMBERS_LIST = ["9876", "5432", "1122", "3344", "5566", "7788", "9900"]
