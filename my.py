@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # Token Railway variable se lega (secure method)
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8546513391:AAGOYM1HlO_5_Zkze1pH1T9bffA8_O10KlM")
 
 # Numbers list
 NUMBERS_LIST = ["9876", "5432", "1122", "3344", "5566", "7788", "9900"]
